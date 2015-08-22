@@ -1,6 +1,6 @@
 Horizon-Clock Roadmap (noch in Bearbeitung)
 
-1. Multiplayer / Splitscreen Support
+1/ Multiplayer / Splitscreen Support
 
 Beschreibung:
 
@@ -8,7 +8,7 @@ Falls nötig, sollte geschaut werden, ob es nötig ist, die Modifikation Multipl
 Bezüglich des Splitscreens, wird die Horizont-Anzeige nicht korrekt dargestellt und verdeckt, laut Aussage eines Spielers, die Moodles eines Spielers. (Kann von mir [Thuztor] nicht getestet werden)
 
 
-2. Integration der Armbanduhr
+2/ Integration der Armbanduhr
 
 Beschreibung: 
 
