@@ -18,7 +18,7 @@ Alternativ kann er die Uhr im Rucksack/Inventar rechtsklicken und draufschauen. 
 
 Ich bin mir jedoch nicht sicher, ob die digitale Uhr in einem beweglichem Fenster erscheinen oder einen festen Platz im Bildschirm einnehmen soll. (siehe 2b)
 
-2a. Es soll Knopfbatterien geben, die erstmal nur speziel für Armbanduhren funktionieren sollen. Diese halten für gewöhnlich sehr lange.
+2a. Es soll Knopfbatterien geben, die erstmal nur speziell für Armbanduhren funktionieren sollen. Diese halten für gewöhnlich sehr lange.
 Ist die Batterie dennoch leer, bleibt die Zeit stehen, bis man eine neue Knopfbatterie mit der alten ausgetauscht hat.
 Man muss jedoch die Zeit manuell einstellen und sich an andere Uhren oder den Stand der Sonne orientieren.
 
