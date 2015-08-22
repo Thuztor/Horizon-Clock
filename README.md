@@ -21,5 +21,6 @@ Ich bin mir jedoch nicht sicher, ob die digitale Uhr in einem beweglichem Fenste
 2a. Es soll Knopfbatterien geben, die erstmal nur speziell für Armbanduhren funktionieren sollen. Diese halten für gewöhnlich sehr lange.
 Ist die Batterie dennoch leer, bleibt die Zeit stehen, bis man eine neue Knopfbatterie mit der alten ausgetauscht hat.
 Man muss jedoch die Zeit manuell einstellen und sich an andere Uhren oder den Stand der Sonne orientieren.
+Dies bedeutet auch, dass man Uhren finden kann, die nicht mehr funktionieren oder/und eine falsche Zeit anzeigen.
 
 2b. Möglich wäre eine mehrfach-Aktivierung verschiedener Armbanduhren, die man am Handgelenk trägt, was, denke ich, bewegliche Fenster begünstigen würde.
